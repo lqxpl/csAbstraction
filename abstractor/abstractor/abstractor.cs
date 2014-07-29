@@ -70,13 +70,14 @@ namespace abstractor
         HardwareSettings[] hardware_settings;
 
         public void configureHardware(Int32 rxChan,double acqLength,double chanBW,
+            bool ampTrack, bool phaseTrack, bool timeTrack, bool channelTrack, bool lowpass,
             double carrierFrequency, double IQTrig)
         {
             try
             {
                 carrierFreq = carrierFrequency;
                 IQTrigLevel = IQTrig;
-                //populateArgs(ampTrack,phaseTrack,timeTrack, channelTrack, lowpass);
+                populateArgs(ampTrack,phaseTrack,timeTrack, channelTrack, lowpass);
 
                 if (hardware_settings == null)
                 {
