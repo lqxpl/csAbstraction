@@ -1,10 +1,5 @@
-D:\RSH\pythonRFSA\asmb_002\abstractor\abstractor\bin\Debug\abstractor.dll
-D:\RSH\pythonRFSA\asmb_002\abstractor\abstractor\bin\Debug\abstractor.pdb
-D:\RSH\pythonRFSA\asmb_002\abstractor\abstractor\obj\Debug\abstractor.dll
-D:\RSH\pythonRFSA\asmb_002\abstractor\abstractor\obj\Debug\abstractor.pdb
-D:\RSH\pythonRFSA\asmb_002\abstractor\abstractor\obj\Debug\abstractor.csprojResolveAssemblyReference.cache
-C:\gitWork\csAbstraction\csAbstraction\abstractor\abstractor\bin\Debug\abstractor.dll
-C:\gitWork\csAbstraction\csAbstraction\abstractor\abstractor\bin\Debug\abstractor.pdb
-C:\gitWork\csAbstraction\csAbstraction\abstractor\abstractor\obj\Debug\abstractor.csprojResolveAssemblyReference.cache
-C:\gitWork\csAbstraction\csAbstraction\abstractor\abstractor\obj\Debug\abstractor.dll
-C:\gitWork\csAbstraction\csAbstraction\abstractor\abstractor\obj\Debug\abstractor.pdb
+D:\RSH\pythonRFSA\asmb_003\abstractor\abstractor\bin\Debug\abstractor.dll
+D:\RSH\pythonRFSA\asmb_003\abstractor\abstractor\bin\Debug\abstractor.pdb
+D:\RSH\pythonRFSA\asmb_003\abstractor\abstractor\obj\Debug\abstractor.dll
+D:\RSH\pythonRFSA\asmb_003\abstractor\abstractor\obj\Debug\abstractor.pdb
+D:\RSH\pythonRFSA\asmb_003\abstractor\abstractor\obj\Debug\abstractor.csprojResolveAssemblyReference.cache

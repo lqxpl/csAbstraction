@@ -1,0 +1,8 @@
+D:\RSH\pythonRFSA\asmb_003\atoll\bikini\bin\Debug\bikini.exe.config
+D:\RSH\pythonRFSA\asmb_003\atoll\bikini\bin\Debug\bikini.exe
+D:\RSH\pythonRFSA\asmb_003\atoll\bikini\bin\Debug\bikini.pdb
+D:\RSH\pythonRFSA\asmb_003\atoll\bikini\bin\Debug\abstractor.dll
+D:\RSH\pythonRFSA\asmb_003\atoll\bikini\bin\Debug\abstractor.pdb
+D:\RSH\pythonRFSA\asmb_003\atoll\bikini\obj\Debug\bikini.csprojResolveAssemblyReference.cache
+D:\RSH\pythonRFSA\asmb_003\atoll\bikini\obj\Debug\bikini.exe
+D:\RSH\pythonRFSA\asmb_003\atoll\bikini\obj\Debug\bikini.pdb

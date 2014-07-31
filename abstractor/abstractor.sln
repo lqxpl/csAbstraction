@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "abstractor", "abstractor\abstractor.csproj", "{86683FDA-F66E-4204-8C44-8CD16352591C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "abstractor", "abstractor\abstractor.csproj", "{9C00F882-3B51-4327-8E10-01CD070F7324}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bikini", "..\atoll\bikini\bikini.csproj", "{25CA98E8-1F97-4FF3-850F-0CC739926D9E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +11,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{86683FDA-F66E-4204-8C44-8CD16352591C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{86683FDA-F66E-4204-8C44-8CD16352591C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{86683FDA-F66E-4204-8C44-8CD16352591C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{86683FDA-F66E-4204-8C44-8CD16352591C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C00F882-3B51-4327-8E10-01CD070F7324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C00F882-3B51-4327-8E10-01CD070F7324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C00F882-3B51-4327-8E10-01CD070F7324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C00F882-3B51-4327-8E10-01CD070F7324}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25CA98E8-1F97-4FF3-850F-0CC739926D9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25CA98E8-1F97-4FF3-850F-0CC739926D9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25CA98E8-1F97-4FF3-850F-0CC739926D9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25CA98E8-1F97-4FF3-850F-0CC739926D9E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
